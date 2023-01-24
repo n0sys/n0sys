@@ -1,7 +1,7 @@
-<h1 align = "center"> Hi there 👋, I'm Hanna ! </h1>                             
+<h1 align = "center"> Hi there 👋, I'm Hanna and no I'm not a girl ! </h1>                             
 
 ## ⚡ WhoAmI
-Cybersecurity Enthusiast and Engineer Student at the University of Technology of Troyes in France!
+I know what you're thinking.. Hanna? A boy? Well yes it is, in Lebanon! Anyways, I'm a cybersecurity enthusiast and engineer student at the University of Technology of Troyes in France! And I will be sharing here my work and findings in the wide crazy world of InfoSec.
 
 ## 📫 Find Me On
 - [Root-Me](https://www.root-me.org/HNA-555086)
@@ -15,7 +15,7 @@ Cybersecurity Enthusiast and Engineer Student at the University of Technology of
 
 ## 🌱 I’m currently learning
 - [ ] C/C++ programming languages
-- [ ] Buffer Overflow attacks concepts
+- [ ] Buffer Overflow attacks and concepts
 - [ ] Enumerating and Attacking Active Directory 
 <!--
 
