@@ -1,10 +1,10 @@
 <h1 align = "center"> Hi there 👋, I'm Hanna ! </h1>                             
 
-## - whoami ⚡
-I'm a Cybersecurity Engineer student at the University of Technology of Troyes in France!\n
+## ⚡ WhoAmI
+I'm a Cybersecurity Engineer student at the University of Technology of Troyes in France!
 I will be using this github account to share and keep track of my work :D
 
-## - While you're here, Check Out My Repos
+## 💻 While you're here, Check Out My Repos
 - [HackTheBox(HTB) - Bolt - WriteUp](https://github.com/austin-lai/HackTheBox-WriteUp/tree/main/HackTheBox(HTB)-Bolt)
 
 <!--
