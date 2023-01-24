@@ -1,7 +1,7 @@
-###                                                           Hi there 👋, I'm Hanna
+####                                                        Hi there 👋, I'm Hanna
 
 ### - whoami 🤔
-I'm a Cybersecurity Engineer student at the University of Technology of Troyes in France!
+I'm a Cybersecurity Engineer student at the University of Technology of Troyes in France!\n
 I will be using this github account to share and keep track of my work :D
 
 ### - While you're here, Check Out My Repos
