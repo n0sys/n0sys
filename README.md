@@ -12,10 +12,11 @@ I know what you're thinking.. Hanna? A boy? Well yes it is, in Lebanon! Anyways,
 ## 💻 While you're here, check out my repos
 - [HackTheBox-WriteUp](https://github.com/n0sys/HackTheBox-WriteUp)
   - [HackTheBox-Precious](https://github.com/n0sys/HackTheBox-WriteUp/tree/main/HackTheBox-Precious)
+- [TryHackMe-Writeup](https://github.com/n0sys/TryHackMe-Writeup)
 
 ## 🌱 I’m currently learning
 - [ ] C/C++ programming languages
-- [ ] Buffer Overflow attacks and concepts
+- [ ] Buffer Overflow attacks
 - [ ] Enumerating and Attacking Active Directory 
 <!--
 
