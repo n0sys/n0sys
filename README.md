@@ -13,6 +13,7 @@ I know what you're thinking.. Hanna? A boy? Well yes it is, in Lebanon! Anyways,
 - [HackTheBox-WriteUp](https://github.com/n0sys/HackTheBox-WriteUp)
   - [HackTheBox-Precious](https://github.com/n0sys/HackTheBox-WriteUp/tree/main/HackTheBox-Precious)
 - [TryHackMe-Writeup](https://github.com/n0sys/TryHackMe-Writeup)
+  - [MrRobot CTF](https://github.com/n0sys/TryHackMe-Writeup/tree/main/MrRobotCTF)
 - [Py Messenger](https://github.com/n0sys/py-messenger)
 
 ## 🌱 I’m currently learning
