@@ -1,4 +1,4 @@
-<h1 align = "center"> Hi there 👋, I'm Hanna and yes I'm a guy! </h1>                             
+<h1 align = "center"> Hi there 👋, My name is Hanna and yes I'm a guy! </h1>                             
 
 ## ⚡ WhoAmI
 I know what you're thinking.. Hanna? A boy? Well yes it is, in Lebanon! Anyways, I'm a cybersecurity enthusiast and an engineer student at the University of Technology of Troyes in France! I will be sharing here my work and findings in the wide crazy world of InfoSec.
