@@ -16,11 +16,12 @@ I know what you're thinking.. Hanna? A boy? Well yes it is, in Lebanon! Anyways,
 - [TryHackMe-Writeup](https://github.com/n0sys/TryHackMe-Writeup)
   - [Wonderland](https://github.com/n0sys/TryHackMe-Writeup/tree/main/Wonderland)
 - [Py Messenger](https://github.com/n0sys/py-messenger)
+- [Reverse Engineering](https://github.com/n0sys/Reverse-Engineering)
+  - [Malware Analysis Concepts](https://github.com/n0sys/Reverse-Engineering/blob/main/Malware_Analysis_Concepts.md)
+  - [IA-32 Architecture](https://github.com/n0sys/Reverse-Engineering/blob/main/IA-32_Architecture.md)
+  - [Assembly x86](https://github.com/n0sys/Reverse-Engineering/blob/main/Assembly_x86.md)
 
 ## 🌱 I’m currently learning
 - [ ] C/C++ programming languages
 - [ ] Buffer Overflow attacks
-- [ ] Enumerating and Attacking Active Directory 
-<!--
-
--->
+- [ ] Enumerating and Attacking Active Directory
