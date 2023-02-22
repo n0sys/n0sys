@@ -11,6 +11,8 @@ I know what you're thinking.. Hanna? A boy? Well yes it is, in Lebanon! Anyways,
 
 ## 💻 While you're here, check out my repos
 - [Py Messenger](https://github.com/n0sys/py-messenger)
+- [Web Crawler and Enumerator](https://github.com/n0sys/web-crawler-enumerator)
+- [Tacheron - Cron-like Scheduler](https://github.com/n0sys/tacheron)
 - [HackTheBox-WriteUp](https://github.com/n0sys/HackTheBox-WriteUp)
   - [HackTheBox-Precious](https://github.com/n0sys/HackTheBox-WriteUp/tree/main/HackTheBox-Precious)
   - [HackTheBox-Photobomb](https://github.com/n0sys/HackTheBox-WriteUp/tree/main/HackTheBox-Photobomb)
