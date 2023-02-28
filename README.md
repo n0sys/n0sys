@@ -27,6 +27,6 @@ I know what you're thinking.. Hanna? A boy? Well yes it is, in Lebanon! Anyways,
   - [Exercises](https://github.com/n0sys/web_dev_projects/tree/main/Exercises)
 
 ## 🌱 I’m currently learning
-- [ ] C/C++ programming languages
+- [ ] Splunk SIEM and SPL
 - [ ] Web programming (PHP/JS)
 - [ ] Enumerating and Attacking Active Directory
