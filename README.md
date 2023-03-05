@@ -23,10 +23,11 @@ I know what you're thinking.. Hanna? A boy? Well yes it is, in Lebanon! Anyways,
     - [Malware Analysis Concepts](https://github.com/n0sys/Reverse-Engineering/blob/main/Notes/Malware_Analysis_Concepts.md)
     - [IA-32 Architecture](https://github.com/n0sys/Reverse-Engineering/blob/main/Notes/IA-32_Architecture.md)
     - [Assembly x86](https://github.com/n0sys/Reverse-Engineering/blob/main/Notes/Assembly_x86.md)
+- [Py Scripts](https://github.com/n0sys/py-scripts)
 - [Web Development](https://github.com/n0sys/web_dev_projects)
   - [Exercises](https://github.com/n0sys/web_dev_projects/tree/main/Exercises)
 
 ## 🌱 I’m currently learning
-- [ ] Splunk SIEM and SPL
+- [ ] Root-me, HackTheBox and TryHackMe
 - [ ] Web programming (PHP/JS)
 - [ ] Enumerating and Attacking Active Directory
