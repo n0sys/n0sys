@@ -26,6 +26,7 @@ I know what you're thinking.. Hanna? A boy? Well yes it is, in Lebanon! Anyways,
 - [Py Scripts](https://github.com/n0sys/py-scripts)
 - [GitHub Gist](https://gist.github.com/n0sys)
   - [LinkedIn Unfollowers](https://gist.github.com/n0sys/f8796b8cbdacafe3923aa9b3a7d4fe02)
+  - [Instagram Unfollowers](https://gist.github.com/n0sys/fd4b921255f7059e91e6375fc5b6c56a)
 - [Web Development](https://github.com/n0sys/web_dev_projects)
   - [Exercises](https://github.com/n0sys/web_dev_projects/tree/main/Exercises)
 
