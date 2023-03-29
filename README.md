@@ -24,6 +24,8 @@ I know what you're thinking.. Hanna? A boy? Well yes it is, in Lebanon! Anyways,
     - [IA-32 Architecture](https://github.com/n0sys/Reverse-Engineering/blob/main/Notes/IA-32_Architecture.md)
     - [Assembly x86](https://github.com/n0sys/Reverse-Engineering/blob/main/Notes/Assembly_x86.md)
 - [Py Scripts](https://github.com/n0sys/py-scripts)
+- [GitHub Gist](https://gist.github.com/n0sys)
+  - [LinkedIn Unfollowers](https://gist.github.com/n0sys/f8796b8cbdacafe3923aa9b3a7d4fe02)
 - [Web Development](https://github.com/n0sys/web_dev_projects)
   - [Exercises](https://github.com/n0sys/web_dev_projects/tree/main/Exercises)
 
