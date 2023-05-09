@@ -4,7 +4,7 @@
 I know what you're thinking.. Hanna? A boy? Well yes it is, in Lebanon! Anyways, I'm a cybersecurity enthusiast and an engineer student at the University of Technology of Troyes in France! I will be sharing here my work and findings in the wild and crazy world of InfoSec.
 
 ## 📫 Find Me On
-- [Root-Me](https://www.root-me.org/HNA-555086)
+- [Root-Me](https://www.root-me.org/n0sys)
 - [TryHackMe](https://tryhackme.com/p/hna00)
 - [HackTheBox](https://app.hackthebox.com/users/564561)
 - [LinkedIn](https://www.linkedin.com/in/hanna-nassar-b368a6209/)
@@ -23,14 +23,10 @@ I know what you're thinking.. Hanna? A boy? Well yes it is, in Lebanon! Anyways,
     - [Malware Analysis Concepts](https://github.com/n0sys/Reverse-Engineering/blob/main/Notes/Malware_Analysis_Concepts.md)
     - [IA-32 Architecture](https://github.com/n0sys/Reverse-Engineering/blob/main/Notes/IA-32_Architecture.md)
     - [Assembly x86](https://github.com/n0sys/Reverse-Engineering/blob/main/Notes/Assembly_x86.md)
-- [Py Scripts](https://github.com/n0sys/py-scripts)
 - [GitHub Gist](https://gist.github.com/n0sys)
   - [LinkedIn Unfollowers](https://gist.github.com/n0sys/f8796b8cbdacafe3923aa9b3a7d4fe02)
   - [Instagram Unfollowers](https://gist.github.com/n0sys/fd4b921255f7059e91e6375fc5b6c56a)
-- [Web Development](https://github.com/n0sys/web_dev_projects)
-  - [Exercises](https://github.com/n0sys/web_dev_projects/tree/main/Exercises)
 
 ## 🌱 I’m currently learning
 - [ ] Root-me, HackTheBox and TryHackMe
 - [ ] Web programming (PHP/JS)
-- [ ] Enumerating and Attacking Active Directory
