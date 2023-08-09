@@ -11,7 +11,6 @@ I'm a cybersecurity enthusiast and an engineer student at the University of Tech
 ## 💻 While you're here, check out my repos
 - [Py Messenger](https://github.com/n0sys/py-messenger)
 - [Web Crawler and Enumerator](https://github.com/n0sys/web-crawler-enumerator)
-- [Tacheron - Cron-like Scheduler](https://github.com/n0sys/tacheron)
 - [HackTheBox-WriteUp](https://github.com/n0sys/HackTheBox-WriteUp)
   - [HackTheBox-Precious](https://github.com/n0sys/HackTheBox-WriteUp/tree/main/HackTheBox-Precious)
   - [HackTheBox-Photobomb](https://github.com/n0sys/HackTheBox-WriteUp/tree/main/HackTheBox-Photobomb)
