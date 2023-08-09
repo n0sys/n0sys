@@ -7,7 +7,6 @@ I'm a cybersecurity enthusiast and an engineer student at the University of Tech
 - [Root-Me](https://www.root-me.org/n0sys)
 - [TryHackMe](https://tryhackme.com/p/hna00)
 - [HackTheBox](https://app.hackthebox.com/users/564561)
-- [LinkedIn](https://www.linkedin.com/in/hanna-nassar-b368a6209/)
 
 ## 💻 While you're here, check out my repos
 - [Py Messenger](https://github.com/n0sys/py-messenger)
