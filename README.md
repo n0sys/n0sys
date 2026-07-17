@@ -1,7 +1,7 @@
 <h1 align = "center"> Hi there 👋, My name is Hanna </h1>                             
 
 ## ⚡ WhoAmI
-I'm a cybersecurity enthusiast and an engineer student at the University of Technology of Troyes in France! I will be sharing here my work and findings in the wild and crazy world of InfoSec.
+I'm a full-time cybersecurity engineer and a part-time gym enthusiast. I currently work as an N2/N3 SOC analyst at aDvens in Paris, France. 
 
 ## 📫 Find Me On
 - [Root-Me](https://www.root-me.org/n0sys)
